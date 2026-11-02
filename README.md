@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SarthakChimaniya/Data_Structure_and_Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0238-product-of-array-except-self](https://github.com/SarthakChimaniya/Data_Structure_and_Algorithms/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/SarthakChimaniya/Data_Structure_and_Algorithms/tree/master/0242-valid-anagram) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/SarthakChimaniya/Data_Structure_and_Algorithms/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
